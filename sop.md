@@ -4,6 +4,10 @@
 
 The sergeant-at-arms (SAA) team consists of the sergeants-at-arms and the IETF Chair. They can all be reached at saa@ietf.org.
 
+### Participation and Recusals
+
+The members of the SAA team are also members in the community. As members and participants in the IETF community, it is reasonable they still participate in the community.  When action is taken, that action will clearly be as a member SAA separate from their participation in the community. If a member of the SAA team is a target, that member is expected to recuse themselves from SAA team actions.
+
 ## General operations
 
 The sergeants-at-arms strive to monitor all postings on ietf@ietf.org on a daily basis. The IETF Chair also monitors the list but may not be in a position to read each message or monitor every day.
@@ -11,7 +15,6 @@ The sergeants-at-arms strive to monitor all postings on ietf@ietf.org on a daily
 When IETF discussion list subscribers believe that a posting may be considered inappropriate according to [RFC 3005] or the [Unprofessional Commentary Description], they are encouraged to report it to saa@ietf.org. SAA team members are also subscribers to the IETF discussion list and they follow the same process to report posts that they consider inappropriate.The SAA team will discuss all reports received and make a determination about whether they believe the posting was inappropriate. At least two team members must agree that a posting was inappropriate before the SAA team takes any action in response.
 
 When the SAA team determines that a posting is inappropriate, one team member suggests a response to the rest of the team, including specific text for email(s) to the original poster and/or the list, as appropriate. The SAA team uses a standard set of [email templates]. Proposed emails to either individuals or to the list must be vetted and approved by at least one other SAA team member before being sent.
-
 
 ## Escalation ladder for handling unprofessional commentary and disruptive behavior
 
