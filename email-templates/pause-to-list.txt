@@ -1,0 +1,9 @@
+Hi all,
+
+We would like the list to consider a pause in the discussion in this thread [1]. The sergeant-at-arms (SAA) team (described in more detail at [2]) think the discussion would benefit from some time to reflect on what has been posted to date before responding further.
+
+Thanks,
+[NAME] on behalf of the SAA team
+
+[1] [LINK to thread]
+[2] https://www.ietf.org/how/lists/discussion/
