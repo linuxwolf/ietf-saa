@@ -21,11 +21,11 @@ The current sergeant-at-arms team considers the following types of language to b
 
 **Threats of violence**
 
-This includes incitement of violence toward any individual, including encouraging a person to commit self-harm. This also includes posting or threatening to post other people’s personally identifying information (“doxxing”) online. 
+This includes incitement of violence toward any individual, including encouraging a person to commit self-harm. This also includes posting or threatening to post other people’s personally identifying information (“doxxing”) online for the purposes of intimidation. 
 
 **Attacks**
 
-Attacks can come in several forms. They include personally attacking people for their opinions, beliefs, or ideas rather than criticizing the opinions, beliefs, and ideas themselves. They include name-calling, insulting, demeaning, and belittling people. They also include criticizing an idea in an insulting or excessively hostile manner. 
+Attacks can come in several forms. They include personally attacking people for their opinions, beliefs, or ideas rather than criticizing the opinions, beliefs, and ideas themselves. They include name-calling, insulting, demeaning, and belittling people. They include criticizing an idea in an insulting or excessively hostile manner. They include otherwise criticizing a person for the purpose of discrediting the idea.
 
 **Derogatory language**
 
